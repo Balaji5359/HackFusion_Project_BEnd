@@ -1,0 +1,13 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": ["dynamodb:GetItem","dynamodb:PutItem","dynamodb:UpdateItem","dynamodb:Scan"],
+      "Resource": [
+        "arn:aws:dynamodb:us-east-1:433448338709:table/Medicines",
+        "arn:aws:dynamodb:us-east-1:433448338709:table/Orders"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Streamlit local files
+.streamlit/secrets.toml
+
+# Runtime / generated project files
+*.log
+key.json
+values.json
+Prescription/
+
+# Agent runtime state and temporary artifacts
+*_state.json
+
+# Build / package artifacts
+dist/
+build/
+*.egg-info/
+
+# Node
+node_modules/
+
+# IMPORTANT: keep React app out of this backend repo
+react-ui/

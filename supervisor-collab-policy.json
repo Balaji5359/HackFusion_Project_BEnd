@@ -1,0 +1,19 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "AllowInvokeCollaboratorAliases",
+      "Effect": "Allow",
+      "Action": [
+        "bedrock:InvokeAgent",
+        "bedrock:GetAgentAlias",
+        "bedrock:ListAgentAliases"
+      ],
+      "Resource": [
+        "arn:aws:bedrock:us-east-1:433448338709:agent-alias/CUSXQ4HFVF/D6WNZSGUB0",
+        "arn:aws:bedrock:us-east-1:433448338709:agent-alias/VRU4S8P5K2/NMWZIKZHKP",
+        "arn:aws:bedrock:us-east-1:433448338709:agent-alias/CLLPLLMGXK/6LBMKKK02O"
+      ]
+    }
+  ]
+}
