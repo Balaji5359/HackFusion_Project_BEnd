@@ -4,6 +4,11 @@ Backend and operations repository for a multi-agent pharmacy ordering system bui
 
 This repository is intentionally backend-first. The React frontend is maintained separately and excluded from this repo.
 
+## Project Links: 
+**React App URL**: https://hackfusion.skillrouteai.com
+**Streamlite App URL**: https://hackfusion.streamlite.app
+
+
 ## 1. Problem Solved
 
 Build a traceable, explainable AI workflow for medicine ordering with:
