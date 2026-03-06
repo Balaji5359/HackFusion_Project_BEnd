@@ -6,7 +6,7 @@ This repository is intentionally backend-first. The React frontend is maintained
 
 ## Project Links: 
 **React App URL**: https://hackfusion.skillrouteai.com
-**Streamlite App URL**: https://hackfusion.streamlite.app
+**Streamlite App URL**: https://hackfusion.streamlit.app
 
 
 ## 1. Problem Solved
